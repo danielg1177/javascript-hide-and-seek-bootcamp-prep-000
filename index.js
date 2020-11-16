@@ -13,6 +13,8 @@ function increaseRankBy(n) {
     
     let test = list[i].children
     
-    for()
+    for(let j = 0; test.length > j; j++) {
+      test = 
+    }
   }
 }
