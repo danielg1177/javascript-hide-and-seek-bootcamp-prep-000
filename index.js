@@ -29,5 +29,5 @@ function deepestChild() {
     start = next
     next = start.children[0]
   }
-  return next
+  return start
 }
